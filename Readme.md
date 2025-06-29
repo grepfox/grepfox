@@ -11,7 +11,6 @@
 - 🧑‍💻 Passionate developer, problem solver and lifelong learner
 - 🔍 Exploring Android framworks and web dev stuff
 - 🚀 Currently working on: Android rom projects
-]---
 
 ### 📊 GitHub Stats
 
@@ -22,11 +21,14 @@
 
 ---
 
-### 🎯 Let's Connect!
+### 🎯 Contact
 
 <p align="left">
   <a href="https://github.com/grepfox"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:grepfox@tutamail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:grepfox@tutamail.com">    <img src="https://img.shields.io/badge/Tutamail-Mail-E50914?style=flat&logo=maildotru&logoColor=white" /></a>
+  <a href="https://t.me/grepfox">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+  </a>
 </p>
 
 ---
