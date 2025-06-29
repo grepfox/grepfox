@@ -33,6 +33,18 @@
 
 ---
 
+### 🏢 Organizations
+
+<p align="left">
+  <a href="https://github.com/lineage-vayu">
+    <img src="https://img.shields.io/badge/-lineage--vayu-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/sm8150-playground">
+    <img src="https://img.shields.io/badge/-sm8150--playground-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 <p align="center">
   <img src="https://github.com/grepfox/grepfox/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
